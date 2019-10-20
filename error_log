@@ -1,0 +1,18 @@
+[17-Oct-2019 01:51:42 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:51:44 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:51:46 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:51:47 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:51:49 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:51:51 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:51:53 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:52:05 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:52:07 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:52:09 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:52:10 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:53:34 America/New_York] PHP Notice:  Undefined offset: 3 in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:59:05 America/New_York] PHP Notice:  Undefined offset: -1 in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:59:19 America/New_York] PHP Notice:  Undefined offset: -1 in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:59:47 America/New_York] PHP Notice:  Undefined offset: -1 in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 01:59:55 America/New_York] PHP Notice:  Undefined offset: -1 in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 17
+[17-Oct-2019 02:00:33 America/New_York] PHP Notice:  Undefined offset: -1 in /home/silveemm/public_html/benjaminsanders.net/assets/func.php on line 18
+[17-Oct-2019 22:47:06 America/New_York] PHP Notice:  Use of undefined constant PHP - assumed 'PHP' in /home/silveemm/public_html/benjaminsanders.net/skills.php on line 91
